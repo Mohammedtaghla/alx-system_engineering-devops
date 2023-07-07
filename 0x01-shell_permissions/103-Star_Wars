@@ -1,2 +1,2 @@
 #!/bin/bash
-def display_crawl():
+telnet towel.blinkenlights.nl
